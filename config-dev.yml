@@ -1,4 +1,2 @@
-spring:
-  profiles: dev     #开发环境
-  application: 
-    name: dev
+config:
+ info: dev

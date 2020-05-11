@@ -1,5 +1,2 @@
-spring:
-  profiles: test   #≤‚ ‘ª∑æ≥
-  application: 
-    name: microservicecloud-config-atguigu-test
-
+config:
+ info: test
